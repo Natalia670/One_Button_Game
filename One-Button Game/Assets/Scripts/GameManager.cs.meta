@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0a423a4f43f7d0649964b00817c58aae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rampage: {instanceID: 0}
+  - rampagedown: {instanceID: 0}
+  - laser: {instanceID: 0}
+  - bomb: {fileID: 4469884949190415063, guid: c8ea9c2e65198344eab2eacd0b95a3eb, type: 3}
+  - misile: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
