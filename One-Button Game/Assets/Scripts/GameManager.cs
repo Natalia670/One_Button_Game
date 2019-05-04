@@ -54,7 +54,7 @@ public class GameManager : MonoBehaviour
         while (true)
         {
             yield return new WaitForSeconds(50);
-            Vector3 spawnPosition = new Vector3(Random.Range(-20, 5), spawnValues.y, spawnValues.z);
+            Vector3 spawnPosition = new Vector3(Random.Range(-9, 12), spawnValues.y, spawnValues.z);
             Instantiate(laser, spawnPosition, Quaternion.identity);
             yield return new WaitForSeconds(5);
         }
